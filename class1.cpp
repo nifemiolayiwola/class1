@@ -79,7 +79,7 @@ int main()
     cout << "address of num = " << *ptr << endl;
   return 0;
 }
-//g++ class2.cpp -o program && ./program
+//g++ task1.cpp -o program && ./program
 /*
 
 git config --global user.name "Nifemi"
